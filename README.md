@@ -1,5 +1,5 @@
 # KBGeneral
-Repository for all general information, scripts and data on LOD of the Koninklijke Bibliotheek
+Repository for all general information, scripts and data on LOD of the Koninklijke Bibliotheek of The Netherlands
 
 This is us!
 * <a href="https://www.wikidata.org/wiki/User:OlafJanssen">OlafJanssen</a>: Olaf Janssen
@@ -21,3 +21,7 @@ These are the programmes we use to work with our data, images and texts
 * <b>cat-a-lot</b>
 * <b>AC/DC</b>
 * <b>Visual file changer</b>
+
+Some articles we wrote on LOD and the KB
+* <a href="https://medium.com/@ecritures/topstukken-in-de-koninklijke-bibliotheek-b32780f314f8">Topstukken in de Koninklijke Bibliotheek</a> (in Dutch)
+* <a href="https://medium.com/@ecritures/gestructureerde-data-van-de-kb-op-wikimedia-commons-35dc948c2eee">Gestructureerde data van de KB op Wikimedia Commons</a> (in Dutch)
