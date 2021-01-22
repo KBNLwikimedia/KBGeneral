@@ -1,5 +1,5 @@
 # KBGeneral
-Repository for all general information, scripts and data on LOD of the Koninklijke Bibliotheek of The Netherlands
+Repository for all general information, scripts and data on LOD of the Koninklijke Bibliotheek of The Netherlands, as far as these are relevant for / related to the Wikimedia activities of the KB.
 
 This is us!
 * <a href="https://www.wikidata.org/wiki/User:OlafJanssen">OlafJanssen</a>: Olaf Janssen
